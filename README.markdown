@@ -4,7 +4,7 @@ Main purpose of this app - measure performance of queueing workers,sending and r
 
 ##How to use
 
-*Setup credentials in config.ini
-*Deploy to any php hosting
-*Open in browser and click start test
+-   Setup credentials in config.ini
+-   Deploy to any php hosting
+-   Open in browser and click start test
 deployed app http://iron2.cloudcontrolled.com/
