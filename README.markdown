@@ -4,6 +4,6 @@ Main purpose of this app - measure performance of queueing workers,sending and r
 
 ##How to use
 
-1)Setup credentials in config.ini
-2)Deploy to any php hosting
-3)Open in browser and click start test
+*Setup credentials in config.ini
+*Deploy to any php hosting
+*Open in browser and click start test
