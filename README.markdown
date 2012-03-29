@@ -1,5 +1,6 @@
 #Iron performance tool
-##Main purpose of this app - measure performance of queueing workers,sending and receiving IronMQ messages
+
+Main purpose of this app - measure performance of queueing workers,sending and receiving IronMQ messages
 
 ##How to use
 
